@@ -54,7 +54,7 @@ function showPrivateInfo(user) {
 hiddenPrivateInfo.style.display = 'none'; // Oculta el mensaje, si es necesario
 
 // Redirige a la página de tu interes
-window.location.href = 'https://mgiuh.github.io/Fire-base-Bit-a-Bit/';
+window.location.href = 'https://mgiuh.github.io/menus-pegajosos-master/';
 
   const btnLogout = document.getElementById('btnLogout');
   btnLogout.addEventListener('click', signoutUser);
